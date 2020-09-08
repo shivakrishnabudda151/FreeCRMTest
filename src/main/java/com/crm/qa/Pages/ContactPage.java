@@ -26,6 +26,11 @@ public boolean verifyContactsLabel()
 {
 	return contactsLabel.isDisplayed();
 }
+
+public void verifyContactNames()
+{
+	System.out.println("contact names");
+}
 	
 	
 
